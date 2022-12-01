@@ -1,5 +1,5 @@
-﻿string username = Console.Readline();
-Console.WriteLine("привет,");
-Console.WriteLine(username);
+﻿string? username = System.Console.ReadLine();
+System.Console.WriteLine("привет,");
+System.Console.WriteLine(username);
 
 
